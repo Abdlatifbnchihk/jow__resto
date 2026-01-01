@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="100%" height="100%" fill="#f3f4f6"/>
+  <g transform="translate(20,40)">
+    <rect x="0" y="0" width="170" height="120" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="85" y="60" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#9ca3af" text-anchor="middle" alignment-baseline="middle">Image</text>
+  </g>
+  <g transform="translate(210,40)">
+    <rect x="0" y="0" width="170" height="120" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="85" y="60" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#9ca3af" text-anchor="middle" alignment-baseline="middle">Fallback</text>
+  </g>
+</svg>
