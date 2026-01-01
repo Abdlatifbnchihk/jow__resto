@@ -1,0 +1,28 @@
+/* Add custom logo font from public/Font/Lobster */
+@font-face {
+	font-family: 'Lobster';
+	src: url('/Font/Lobster/Lobster-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.logo-font {
+	font-family: 'Lobster', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.labster {
+    font-family: 'Lobster', cursive;
+}
+
+.contact__info {
+    background: url("../public/img/contact__info.webp");
+    background-size: cover;
+    background-position: center;
+    BACKGROUND-ATTACHMENT: fixed;
+}
+
