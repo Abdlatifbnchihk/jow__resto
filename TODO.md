@@ -1,4 +1,0 @@
-- [x] Update src/Components/About.jsx to create a three-column layout with images in first and third columns, and content in the second column.
-- [x] Use available images from public/img/ for the first and third columns.
-- [x] Add sample text content in the second column.
-- [x] Ensure responsive design using CSS flexbox.
