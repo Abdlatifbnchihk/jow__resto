@@ -22,7 +22,7 @@ function ScrollToTop() {
       aria-label="Scroll to top"
       title="Scroll to top"
       onClick={handleClick}
-      className={`fixed right-10 bottom-6 z-50 flex items-center justify-center w-12 h-12 rounded-full text-white shadow-lg transition-transform transition-opacity duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-orange-300 ${
+      className={`fixed right-10 bottom-6 z-50 flex items-center justify-center w-12 h-12 rounded-full text-white shadow-lg transition-transform transition-opacity duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-orange-300 cursor-pointer ${
         visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4 pointer-events-none'
       } bg-orange-500 hover:bg-orange-600`}
     >
