@@ -1,6 +1,6 @@
 import './App.css'
 import React from 'react'
-import Main from './components/Main'
+import Main from './Components/Main'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { useEffect } from 'react'
